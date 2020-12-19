@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import { getMovies } from "./api";
+import { getMovies } from "../api";
 
 export const FetchMovie = () => {
   const [loading, setLoading] = useState(true);

@@ -56,7 +56,6 @@ export const FetchMovie = () => {
   }, []);
 
   useEffect(() => {
-    console.log("how many");
     window.addEventListener("scroll", handleScroll);
     return () => window.removeEventListener("scroll", handleScroll);
   });

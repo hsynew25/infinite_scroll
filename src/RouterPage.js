@@ -5,7 +5,7 @@ import {
   Route,
   Switch,
 } from "react-router-dom";
-import Covie19 from "./Covid19";
+import Covie19 from "./Covid19/ShowCovid19";
 import Header from "./Header";
 import ShowMovieList from "./Movie/ShowMovieList";
 

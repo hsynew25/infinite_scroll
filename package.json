@@ -30,7 +30,6 @@
       "react-app/jest"
     ]
   },
-  "homepage": "https://hsynew25/github.io/infinite_scroll",
   "browserslist": {
     "production": [
       ">0.2%",
@@ -42,5 +41,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "homepage": "https://hsynew25.github.io/infinite_scroll/"
 }
